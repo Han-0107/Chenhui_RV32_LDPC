@@ -5,7 +5,7 @@
 ## Quick Links
 
 * "One Student One Chip": https://ysyx.oscc.cc/
-* Personal website: https://yaohui.netlify.app/
+* Personal website: yhhan.com
 * Verilog Tutorial: https://www.chipverify.com/tutorials/verilog
 
 ## About Chenhui
