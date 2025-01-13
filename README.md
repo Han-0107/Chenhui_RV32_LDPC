@@ -1,5 +1,7 @@
 # Chenhui_RV32 (晨辉处理器)
 
+In memory of my love, Anchen.
+
 <img width="4020" alt="chenhui" src="https://github.com/user-attachments/assets/5707cf17-ef12-48c0-8abc-09bd8d9d21a0">
 
 ## Quick Links
