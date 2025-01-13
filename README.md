@@ -1,5 +1,5 @@
 # Chenhui_RV32 (晨辉处理器)
-
+In memory of my love, Anchen.
 <p align="center">
   <img src="Images/chenhui.png" alt="chenhui">
 </p>
@@ -8,7 +8,6 @@
 ## Quick Links
 
 * "One Student One Chip": https://ysyx.oscc.cc/
-* Personal website: https://yaohui.netlify.app/
 * Verilog Tutorial: https://www.chipverify.com/tutorials/verilog
 
 ## About Chenhui
